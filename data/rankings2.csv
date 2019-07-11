@@ -1,0 +1,145 @@
+,world_rank,institution,country,national_rank,quality_of_education,alumni_employment,quality_of_faculty,publications,influence,citations,broad_impact,patents,score,year,Location,lat,lng
+0,4,University of Cambridge,United Kingdom,1,10,24,4,16,16,11,,50,86.17,2012,"University of Cambridge, United Kingdom",52.2042666,0.1149085
+1,7,University of Oxford,United Kingdom,2,13,28,9,15,13,19,,26,82.34,2012,"University of Oxford, United Kingdom",51.7548164,-1.2543668
+2,28,Imperial College London,United Kingdom,3,84,73,35,26,26,29,,41,57.53,2012,"Imperial College London, United Kingdom",51.49879970000001,-0.1748772
+3,31,University College London,United Kingdom,4,35,101,45,27,23,33,,86,55.21,2012,"University College London, United Kingdom",51.52455920000001,-0.1340401
+4,60,University of Edinburgh,United Kingdom,1,71,101,43,64,41,70,,101,48.43,2012,"University of Edinburgh, United Kingdom",55.9445158,-3.1892413
+5,76,University of Manchester,United Kingdom,5,101,101,75,52,70,63,,101,46.38,2012,"University of Manchester, United Kingdom",53.4668498,-2.2338837
+6,97,University of Nottingham,United Kingdom,6,101,101,87,101,101,101,,92,43.79,2012,"University of Nottingham, United Kingdom",52.938636,-1.1951582
+7,98,University of Bristol,United Kingdom,7,101,101,78,75,81,86,,101,43.77,2012,"University of Bristol, United Kingdom",51.4584172,-2.6029792
+8,3,University of Oxford,United Kingdom,1,7,12,10,11,7,13,,15,92.54,2013,"University of Oxford, United Kingdom",51.7548164,-1.2543668
+9,5,University of Cambridge,United Kingdom,2,3,15,5,9,11,10,,39,90.24,2013,"University of Cambridge, United Kingdom",52.2042666,0.1149085
+10,27,Imperial College London,United Kingdom,3,101,92,35,17,22,19,,48,56.75,2013,"Imperial College London, United Kingdom",51.49879970000001,-0.1748772
+11,30,University College London,United Kingdom,4,24,101,49,12,16,21,,73,56.0,2013,"University College London, United Kingdom",51.52455920000001,-0.1340401
+12,45,University of Edinburgh,United Kingdom,5,47,101,45,52,36,63,,101,50.98,2013,"University of Edinburgh, United Kingdom",55.9445158,-3.1892413
+13,72,University of Manchester,United Kingdom,6,101,101,76,47,63,57,,101,46.85,2013,"University of Manchester, United Kingdom",53.4668498,-2.2338837
+14,75,King's College London,United Kingdom,7,41,101,101,45,45,44,,101,46.53,2013,"King's College London, United Kingdom",51.5114864,-0.115997
+15,4,University of Cambridge,United Kingdom,1,2,10,5,10,9,12,13.0,48,97.64,2014,"University of Cambridge, United Kingdom",52.2042666,0.1149085
+16,5,University of Oxford,United Kingdom,2,7,12,10,11,12,11,12.0,16,97.51,2014,"University of Oxford, United Kingdom",51.7548164,-1.2543668
+17,30,University College London,United Kingdom,3,20,406,52,13,22,18,21.0,121,61.05,2014,"University College London, United Kingdom",51.52455920000001,-0.1340401
+18,39,Imperial College London,United Kingdom,4,121,98,38,20,27,31,17.0,34,58.85,2014,"Imperial College London, United Kingdom",51.49879970000001,-0.1748772
+19,56,University of Edinburgh,United Kingdom,5,42,131,36,54,42,55,46.0,307,55.2,2014,"University of Edinburgh, United Kingdom",55.9445158,-3.1892413
+20,69,University of Manchester,United Kingdom,6,98,73,74,41,68,43,59.0,94,53.9,2014,"University of Manchester, United Kingdom",53.4668498,-2.2338837
+21,90,King's College London,United Kingdom,7,28,173,114,84,132,87,77.0,181,52.31,2014,"King's College London, United Kingdom",51.5114864,-0.115997
+22,123,University of Bristol,United Kingdom,8,177,242,76,87,69,99,110.0,338,49.97,2014,"University of Bristol, United Kingdom",51.4584172,-2.6029792
+23,137,University of Glasgow,United Kingdom,9,219,112,210,118,131,87,92.0,280,49.64,2014,"University of Glasgow, United Kingdom",55.87212109999999,-4.288200499999999
+24,142,University of Birmingham,United Kingdom,10,58,119,198,116,160,150,135.0,204,49.48,2014,"University of Birmingham, United Kingdom",52.4508168,-1.9305135
+25,146,University of Southampton,United Kingdom,11,315,81,210,115,129,107,129.0,259,49.42,2014,"University of Southampton, United Kingdom",50.9614912,-1.4252228
+26,147,University of Nottingham,United Kingdom,12,128,148,85,113,174,150,135.0,159,49.41,2014,"University of Nottingham, United Kingdom",52.938636,-1.1951582
+27,151,University of Leeds,United Kingdom,13,84,93,210,132,134,134,151.0,280,49.23,2014,"University of Leeds, United Kingdom",53.8066815,-1.5550328
+28,178,University of Sheffield,United Kingdom,14,131,257,190,124,127,114,145.0,227,48.55,2014,"University of Sheffield, United Kingdom",53.3809409,-1.4879469
+29,190,University of Sussex,United Kingdom,15,138,218,40,368,261,176,306.0,481,48.12,2014,"University of Sussex, United Kingdom",50.86708950000001,-0.08791399999999999
+30,209,Cardiff University,United Kingdom,16,306,183,135,183,153,310,189.0,170,47.74,2014,"Cardiff University, United Kingdom",51.48662710000001,-3.1788641
+31,211,University of Liverpool,United Kingdom,17,159,248,200,149,163,134,189.0,373,47.69,2014,"University of Liverpool, United Kingdom",53.40478239999999,-2.965299
+32,214,Queen Mary University of London,United Kingdom,18,133,348,210,231,181,220,141.0,227,47.67,2014,"Queen Mary University of London, United Kingdom",51.5240671,-0.0403745
+33,229,Newcastle University,United Kingdom,19,355,250,210,200,149,200,164.0,481,47.42,2014,"Newcastle University, United Kingdom",54.9791871,-1.6146608
+34,252,University of Dundee,United Kingdom,20,164,478,210,354,200,134,184.0,227,47.04,2014,"University of Dundee, United Kingdom",56.45824469999999,-2.9821428
+35,257,London School of Hygiene & Tropical Medicine,United Kingdom,21,355,478,154,302,306,250,169.0,737,46.93,2014,"London School of Hygiene & Tropical Medicine, United Kingdom",51.5209007,-0.1302803
+36,263,University of Leicester,United Kingdom,22,355,478,210,254,140,220,185.0,373,46.87,2014,"University of Leicester, United Kingdom",52.6211393,-1.1246325
+37,264,Durham University,United Kingdom,23,122,237,210,250,203,250,230.0,373,46.87,2014,"Durham University, United Kingdom",54.7649859,-1.5782029
+38,276,University of Aberdeen,United Kingdom,24,347,223,210,282,217,250,224.0,481,46.63,2014,"University of Aberdeen, United Kingdom",57.16475999999999,-2.1015257
+39,287,University of Reading,United Kingdom,25,241,78,210,393,319,220,355.0,481,46.49,2014,"University of Reading, United Kingdom",51.4414205,-0.9418157
+40,306,London School of Economics,United Kingdom,26,70,139,75,520,742,310,596.0,737,46.3,2014,"London School of Economics, United Kingdom",51.5144388,-0.1164513
+41,317,University of Hull,United Kingdom,27,287,253,158,612,554,493,256.0,552,46.21,2014,"University of Hull, United Kingdom",53.773162,-0.3677464
+42,323,University of St Andrews,United Kingdom,28,125,478,210,317,193,363,281.0,280,46.15,2014,"University of St Andrews, United Kingdom",56.3417136,-2.7942674
+43,324,University of Warwick,United Kingdom,29,198,394,210,224,253,200,326.0,259,46.13,2014,"University of Warwick, United Kingdom",52.3792525,-1.5614704
+44,336,University of York,United Kingdom,30,355,478,210,272,209,159,295.0,481,45.99,2014,"University of York, United Kingdom",53.9461089,-1.0517718
+45,342,Queen's University Belfast,United Kingdom,31,169,399,210,308,284,283,295.0,737,45.95,2014,"Queen's University Belfast, United Kingdom",54.5844087,-5.9340493
+46,345,"St George's, University of London",United Kingdom,32,355,478,210,525,459,310,256.0,552,45.91,2014,"St George's, University of London, United Kingdom",51.427401,-0.1749356
+47,350,University of East Anglia,United Kingdom,33,187,478,174,356,210,187,318.0,637,45.87,2014,"University of East Anglia, United Kingdom",52.6219215,1.2391761
+48,357,University of Exeter,United Kingdom,34,250,371,210,309,188,406,322.0,481,45.79,2014,"University of Exeter, United Kingdom",50.7371369,-3.5351475
+49,397,Cranfield University,United Kingdom,35,355,71,210,728,731,800,769.0,737,45.56,2014,"Cranfield University, United Kingdom",52.0746136,-0.6282833
+50,409,Brunel University,United Kingdom,36,355,147,210,486,612,609,420.0,481,45.5,2014,"Brunel University, United Kingdom",51.5324044,-0.4729931
+51,421,University of Bath,United Kingdom,37,355,352,210,387,379,310,355.0,552,45.44,2014,"University of Bath, United Kingdom",51.3782228,-2.3263987
+52,449,Lancaster University,United Kingdom,38,355,339,210,372,398,250,380.0,637,45.33,2014,"Lancaster University, United Kingdom",54.0103942,-2.7877294
+53,472,University of Strathclyde,United Kingdom,39,355,245,210,382,454,406,460.0,426,45.22,2014,"University of Strathclyde, United Kingdom",55.862122,-4.2422851
+54,494,City University London,United Kingdom,40,355,103,210,808,868,800,874.0,637,45.14,2014,"City University London, United Kingdom",51.5278249,-0.1025445
+55,499,University of Surrey,United Kingdom,41,195,234,210,414,548,406,569.0,338,45.12,2014,"University of Surrey, United Kingdom",51.2427533,-0.5877755
+56,541,"Royal Holloway, University of London",United Kingdom,42,355,478,210,560,317,406,442.0,373,44.98,2014,"Royal Holloway, University of London, United Kingdom",51.425673,-0.5630625
+57,552,Bangor University,United Kingdom,43,246,360,210,624,526,609,504.0,373,44.95,2014,"Bangor University, United Kingdom",53.2295205,-4.1299873
+58,563,University of Essex,United Kingdom,44,106,335,210,710,651,406,642.0,737,44.92,2014,"University of Essex, United Kingdom",51.87772589999999,0.9472069000000001
+59,577,Plymouth University,United Kingdom,45,355,437,210,534,425,493,514.0,426,44.88,2014,"Plymouth University, United Kingdom",50.3761866,-4.139491899999999
+60,624,"Birkbeck, University of London",United Kingdom,46,281,478,180,718,343,493,569.0,737,44.76,2014,"Birkbeck, University of London, United Kingdom",51.5219696,-0.1300479
+61,630,Open University (UK),United Kingdom,47,355,478,210,613,301,800,536.0,637,44.74,2014,"Open University (UK), United Kingdom",51.5410006,-0.1430811
+62,640,University of Portsmouth,United Kingdom,48,355,478,210,759,697,310,543.0,637,44.73,2014,"University of Portsmouth, United Kingdom",50.7951866,-1.0935923
+63,645,University of Hertfordshire,United Kingdom,49,355,478,210,792,390,609,536.0,637,44.72,2014,"University of Hertfordshire, United Kingdom",51.76136839999999,-0.2482228
+64,663,Keele University,United Kingdom,50,355,478,210,635,535,406,569.0,737,44.69,2014,"Keele University, United Kingdom",53.00343729999999,-2.272053000000001
+65,693,University of Kent,United Kingdom,51,355,375,210,656,458,609,663.0,737,44.65,2014,"University of Kent, United Kingdom",51.297233,1.0632172
+66,699,Swansea University,United Kingdom,52,355,355,210,533,544,609,703.0,552,44.65,2014,"Swansea University, United Kingdom",51.6092184,-3.9799524
+67,703,Heriot-Watt University,United Kingdom,53,355,381,210,602,601,609,690.0,552,44.64,2014,"Heriot-Watt University, United Kingdom",55.9096602,-3.3203494
+68,705,Loughborough University,United Kingdom,54,355,478,210,497,778,609,628.0,637,44.63,2014,"Loughborough University, United Kingdom",52.7650814,-1.2320534
+69,707,Aston University,United Kingdom,55,355,331,210,839,879,493,739.0,338,44.63,2014,"Aston University, United Kingdom",52.4868584,-1.8882174
+70,724,Liverpool John Moores University,United Kingdom,56,355,478,210,744,421,609,618.0,737,44.61,2014,"Liverpool John Moores University, United Kingdom",53.4053868,-2.972759
+71,735,University of Stirling,United Kingdom,57,355,334,210,804,717,609,716.0,737,44.6,2014,"University of Stirling, United Kingdom",56.1454119,-3.9205713
+72,738,University of Ulster,United Kingdom,58,355,478,210,940,895,493,739.0,259,44.6,2014,"University of Ulster, United Kingdom",55.0062362,-7.3236107
+73,800,Aberystwyth University,United Kingdom,59,355,478,210,818,562,493,716.0,481,44.53,2014,"Aberystwyth University, United Kingdom",52.4177914,-4.0638842
+74,806,University of Bradford,United Kingdom,60,355,341,210,851,755,609,819.0,481,44.52,2014,"University of Bradford, United Kingdom",53.7915488,-1.7662402
+75,817,Manchester Metropolitan University,United Kingdom,61,355,442,210,919,679,800,800.0,481,44.5,2014,"Manchester Metropolitan University, United Kingdom",53.4704767,-2.2394124
+76,822,"Royal Veterinary College, University of London",United Kingdom,62,205,478,210,827,551,493,819.0,737,44.49,2014,"Royal Veterinary College, University of London, United Kingdom",51.5366976,-0.1339696
+77,825,University of Brighton,United Kingdom,63,355,478,210,860,841,800,749.0,552,44.48,2014,"University of Brighton, United Kingdom",50.8420449,-0.1198916
+78,892,"University of Wales, Trinity Saint David",United Kingdom,64,355,478,210,966,859,406,843.0,737,44.4,2014,"University of Wales, Trinity Saint David, United Kingdom",52.11360699999999,-4.07654
+79,4,University of Cambridge,United Kingdom,1,2,10,5,11,6,12,13.0,48,96.81,2015,"University of Cambridge, United Kingdom",52.2042666,0.1149085
+80,5,University of Oxford,United Kingdom,2,7,13,10,7,12,7,9.0,15,96.46,2015,"University of Oxford, United Kingdom",51.7548164,-1.2543668
+81,27,University College London,United Kingdom,3,21,447,27,12,22,15,18.0,67,62.27,2015,"University College London, United Kingdom",51.52455920000001,-0.1340401
+82,35,Imperial College London,United Kingdom,4,90,82,30,19,26,23,19.0,47,59.61,2015,"Imperial College London, United Kingdom",51.49879970000001,-0.1748772
+83,55,University of Edinburgh,United Kingdom,5,44,127,33,54,37,65,43.0,228,54.39,2015,"University of Edinburgh, United Kingdom",55.9445158,-3.1892413
+84,67,University of Manchester,United Kingdom,6,99,92,72,43,70,29,53.0,142,53.38,2015,"University of Manchester, United Kingdom",53.4668498,-2.2338837
+85,94,King's College London,United Kingdom,7,27,190,114,76,116,101,74.0,188,51.31,2015,"King's College London, United Kingdom",51.5114864,-0.115997
+86,123,University of Bristol,United Kingdom,8,194,196,74,92,69,82,106.0,335,49.59,2015,"University of Bristol, United Kingdom",51.4584172,-2.6029792
+87,128,University of Glasgow,United Kingdom,9,234,89,218,123,144,82,87.0,402,49.45,2015,"University of Glasgow, United Kingdom",55.87212109999999,-4.288200499999999
+88,140,University of Nottingham,United Kingdom,10,131,109,84,116,176,146,140.0,138,49.02,2015,"University of Nottingham, United Kingdom",52.938636,-1.1951582
+89,148,University of Southampton,United Kingdom,11,329,95,218,115,133,101,130.0,334,48.77,2015,"University of Southampton, United Kingdom",50.9614912,-1.4252228
+90,152,University of Birmingham,United Kingdom,12,65,158,205,117,165,146,138.0,170,48.7,2015,"University of Birmingham, United Kingdom",52.4508168,-1.9305135
+91,161,University of Leeds,United Kingdom,13,62,157,218,133,141,136,150.0,265,48.41,2015,"University of Leeds, United Kingdom",53.8066815,-1.5550328
+92,173,University of Sheffield,United Kingdom,14,142,209,196,129,137,136,147.0,179,48.07,2015,"University of Sheffield, United Kingdom",53.3809409,-1.4879469
+93,199,University of Liverpool,United Kingdom,15,176,179,207,154,172,128,174.0,377,47.49,2015,"University of Liverpool, United Kingdom",53.40478239999999,-2.965299
+94,201,Cardiff University,United Kingdom,16,321,218,143,178,153,146,170.0,193,47.46,2015,"Cardiff University, United Kingdom",51.48662710000001,-3.1788641
+95,209,Queen Mary University of London,United Kingdom,17,147,319,218,226,175,212,138.0,255,47.25,2015,"Queen Mary University of London, United Kingdom",51.5240671,-0.0403745
+96,212,Newcastle University,United Kingdom,18,367,222,218,192,159,234,159.0,365,47.17,2015,"Newcastle University, United Kingdom",54.9791871,-1.6146608
+97,240,University of Leicester,United Kingdom,19,367,567,218,258,139,197,170.0,385,46.72,2015,"University of Leicester, United Kingdom",52.6211393,-1.1246325
+98,242,University of Dundee,United Kingdom,20,178,567,218,354,200,161,176.0,216,46.68,2015,"University of Dundee, United Kingdom",56.45824469999999,-2.9821428
+99,246,London School of Hygiene & Tropical Medicine,United Kingdom,21,367,567,159,300,294,264,164.0,736,46.59,2015,"London School of Hygiene & Tropical Medicine, United Kingdom",51.5209007,-0.1302803
+100,253,University of Sussex,United Kingdom,22,151,257,57,359,250,161,308.0,553,46.49,2015,"University of Sussex, United Kingdom",50.86708950000001,-0.08791399999999999
+101,261,Durham University,United Kingdom,23,132,267,116,248,199,197,242.0,460,46.42,2015,"Durham University, United Kingdom",54.7649859,-1.5782029
+102,263,University of Reading,United Kingdom,24,258,63,218,400,347,182,361.0,666,46.4,2015,"University of Reading, United Kingdom",51.4414205,-0.9418157
+103,279,London School of Economics,United Kingdom,25,78,65,91,503,739,264,590.0,871,46.22,2015,"London School of Economics, United Kingdom",51.5144388,-0.1164513
+104,285,University of Aberdeen,United Kingdom,26,360,314,199,273,207,287,225.0,422,46.17,2015,"University of Aberdeen, United Kingdom",57.16475999999999,-2.1015257
+105,293,University of Warwick,United Kingdom,27,210,444,116,205,239,161,308.0,234,46.05,2015,"University of Warwick, United Kingdom",52.3792525,-1.5614704
+106,309,University of St Andrews,United Kingdom,28,145,506,218,308,188,321,281.0,189,45.89,2015,"University of St Andrews, United Kingdom",56.3417136,-2.7942674
+107,325,University of York,United Kingdom,29,367,567,218,270,205,161,300.0,406,45.69,2015,"University of York, United Kingdom",53.9461089,-1.0517718
+108,333,University of Exeter,United Kingdom,30,264,481,218,293,174,428,295.0,353,45.59,2015,"University of Exeter, United Kingdom",50.7371369,-3.5351475
+109,336,University of East Anglia,United Kingdom,31,206,567,179,349,211,146,313.0,500,45.58,2015,"University of East Anglia, United Kingdom",52.6219215,1.2391761
+110,340,"St George's, University of London",United Kingdom,32,367,567,218,554,476,368,262.0,648,45.55,2015,"St George's, University of London, United Kingdom",51.427401,-0.1749356
+111,343,Queen's University Belfast,United Kingdom,33,183,387,218,306,276,264,313.0,377,45.53,2015,"Queen's University Belfast, United Kingdom",54.5844087,-5.9340493
+112,405,University of Bath,United Kingdom,34,367,368,218,388,378,287,353.0,478,45.14,2015,"University of Bath, United Kingdom",51.3782228,-2.3263987
+113,426,Lancaster University,United Kingdom,35,367,360,218,364,398,234,369.0,673,45.08,2015,"Lancaster University, United Kingdom",54.0103942,-2.7877294
+114,453,University of Strathclyde,United Kingdom,36,367,216,218,389,467,368,486.0,305,44.94,2015,"University of Strathclyde, United Kingdom",55.862122,-4.2422851
+115,472,Brunel University,United Kingdom,37,367,236,218,497,676,511,437.0,667,44.86,2015,"Brunel University, United Kingdom",51.5324044,-0.4729931
+116,506,University of Hull,United Kingdom,38,305,253,162,602,557,511,511.0,524,44.75,2015,"University of Hull, United Kingdom",53.773162,-0.3677464
+117,525,University of Surrey,United Kingdom,39,217,295,218,419,553,428,549.0,300,44.7,2015,"University of Surrey, United Kingdom",51.2427533,-0.5877755
+118,540,"Royal Holloway, University of London",United Kingdom,40,367,567,218,564,306,428,447.0,556,44.67,2015,"Royal Holloway, University of London, United Kingdom",51.425673,-0.5630625
+119,545,City University London,United Kingdom,41,367,122,218,785,861,812,880.0,601,44.64,2015,"City University London, United Kingdom",51.5278249,-0.1025445
+120,568,Bangor University,United Kingdom,42,260,370,218,622,568,511,529.0,342,44.59,2015,"Bangor University, United Kingdom",53.2295205,-4.1299873
+121,587,Plymouth University,United Kingdom,43,367,544,218,532,429,511,511.0,651,44.54,2015,"Plymouth University, United Kingdom",50.3761866,-4.139491899999999
+122,594,Cranfield University,United Kingdom,44,367,176,218,763,762,812,770.0,549,44.52,2015,"Cranfield University, United Kingdom",52.0746136,-0.6282833
+123,597,University of Portsmouth,United Kingdom,45,367,567,218,768,719,234,540.0,765,44.52,2015,"University of Portsmouth, United Kingdom",50.7951866,-1.0935923
+124,604,University of Hertfordshire,United Kingdom,46,367,567,218,792,396,511,511.0,839,44.51,2015,"University of Hertfordshire, United Kingdom",51.76136839999999,-0.2482228
+125,631,Open University (UK),United Kingdom,47,367,567,218,616,340,645,549.0,809,44.46,2015,"Open University (UK), United Kingdom",51.5410006,-0.1430811
+126,632,University of Essex,United Kingdom,48,119,358,218,694,695,511,671.0,871,44.45,2015,"University of Essex, United Kingdom",51.87772589999999,0.9472069000000001
+127,674,Keele University,United Kingdom,49,367,567,218,659,533,321,606.0,853,44.4,2015,"Keele University, United Kingdom",53.00343729999999,-2.272053000000001
+128,683,University of Ulster,United Kingdom,50,367,567,218,747,808,321,732.0,240,44.38,2015,"University of Ulster, United Kingdom",55.0062362,-7.3236107
+129,692,University of Kent,United Kingdom,51,367,433,218,625,458,511,637.0,861,44.37,2015,"University of Kent, United Kingdom",51.297233,1.0632172
+130,694,Loughborough University,United Kingdom,52,367,567,218,512,806,511,646.0,480,44.37,2015,"Loughborough University, United Kingdom",52.7650814,-1.2320534
+131,696,Liverpool John Moores University,United Kingdom,53,367,567,218,723,395,511,606.0,871,44.37,2015,"Liverpool John Moores University, United Kingdom",53.4053868,-2.972759
+132,698,"Birkbeck, University of London",United Kingdom,54,300,567,218,724,339,428,622.0,871,44.37,2015,"Birkbeck, University of London, United Kingdom",51.5219696,-0.1300479
+133,707,Heriot-Watt University,United Kingdom,55,367,335,218,601,597,812,715.0,439,44.35,2015,"Heriot-Watt University, United Kingdom",55.9096602,-3.3203494
+134,720,Aston University,United Kingdom,56,367,355,218,827,895,645,754.0,306,44.33,2015,"Aston University, United Kingdom",52.4868584,-1.8882174
+135,729,Swansea University,United Kingdom,57,367,428,218,523,566,645,699.0,595,44.32,2015,"Swansea University, United Kingdom",51.6092184,-3.9799524
+136,784,University of Stirling,United Kingdom,58,367,357,218,772,707,812,754.0,871,44.26,2015,"University of Stirling, United Kingdom",56.1454119,-3.9205713
+137,814,Aberystwyth University,United Kingdom,59,367,567,218,842,552,511,754.0,607,44.22,2015,"Aberystwyth University, United Kingdom",52.4177914,-4.0638842
+138,821,University of Bradford,United Kingdom,60,367,287,218,859,772,812,886.0,567,44.21,2015,"University of Bradford, United Kingdom",53.7915488,-1.7662402
+139,824,University of Brighton,United Kingdom,61,367,567,218,854,829,812,754.0,766,44.21,2015,"University of Brighton, United Kingdom",50.8420449,-0.1198916
+140,830,"University of Wales, Trinity Saint David",United Kingdom,62,367,567,218,1000,927,645,754.0,871,44.2,2015,"University of Wales, Trinity Saint David, United Kingdom",52.11360699999999,-4.07654
+141,874,"Royal Veterinary College, University of London",United Kingdom,63,246,567,218,896,550,511,837.0,746,44.16,2015,"Royal Veterinary College, University of London, United Kingdom",51.5366976,-0.1339696
+142,885,Manchester Metropolitan University,United Kingdom,64,367,458,218,941,677,812,850.0,721,44.14,2015,"Manchester Metropolitan University, United Kingdom",53.4704767,-2.2394124
+143,938,University of Central Lancashire,United Kingdom,65,367,494,218,946,603,511,906.0,749,44.09,2015,"University of Central Lancashire, United Kingdom",53.7641378,-2.7092453
